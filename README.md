@@ -14,6 +14,7 @@
 - 📟 JS:
   - ESLint
   
-- 🌏 Theme:
+- 🌏 Theme & fonts:
   - Atom One Dark 
   - Material Icon Theme
+  - Fira Code
