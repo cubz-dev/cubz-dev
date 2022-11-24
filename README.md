@@ -13,6 +13,8 @@
 
 - 📟 JS:
   - ESLint
+  - Babel + ES6/ES7
+  - ESlint
   
 - 🌏 Theme & fonts:
   - Atom One Dark 
