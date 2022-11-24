@@ -6,6 +6,8 @@
   - Error Lens
   - GitLens
   - Open file from path
+  - Auto Close Tag
+  - Auto Rename Tag
   
 - ♟ React:
   - vscode-styled-components
